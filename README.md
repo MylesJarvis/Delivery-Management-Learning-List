@@ -8,10 +8,10 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 - [Intro](#intro)
 - [GOV.UK](#gov.uk)
 - [Books](#books)
-- [Training Courses and Industry Bodies](#Training Courses/Industry Bodies)
-- [Other ](#other-)
-- [Team and company](#team-and-company)
-- [Work-life](#work-life)
+- [Training Courses](#Training)
+- [Non-Gov](#non-gov)
+- [Games](#games)
+- [Metrics](#metrics)
 
 ## Intro
 
@@ -52,7 +52,7 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 
-## Training Courses/Industry Bodies
+## Training
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -65,7 +65,7 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 
-## Non-GOV, Government Help				
+## Non-GOV			
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
