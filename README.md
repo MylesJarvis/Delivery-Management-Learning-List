@@ -20,6 +20,7 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 - [Blogs](#Blogs)
 - [Posts](#Posts)
 - [Mailing Lists](#mailing-lists)
+- [Podcasts](#podcasts)
 
 ## Intro
 
