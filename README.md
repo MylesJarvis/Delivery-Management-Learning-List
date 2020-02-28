@@ -29,7 +29,8 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 
-## Training Courses/Industry Bodies
+## Books
+
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -42,7 +43,7 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 
-## Books
+## Training Courses/Industry Bodies
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -78,5 +79,110 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Metrics			
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Facilitation			
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Agile at Scale			
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Meetups			
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Slack		
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Blogs		
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Posts		
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Mailing Lists		
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Podcasts	
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
