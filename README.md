@@ -16,16 +16,7 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 
-| Item | Where to find | Author | Description | Type of Document/Focus |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+## GOV.UK
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -38,6 +29,8 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 
+## Training Courses/Industry Bodies
+
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | A  | B | C  | D | E |
@@ -48,6 +41,34 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
+
+## Books
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Non-GOV, Government Help				
+
+| Item | Where to find | Author | Description | Type of Document/Focus |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+| A  | B | C  | D | E |
+
+## Games			
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
