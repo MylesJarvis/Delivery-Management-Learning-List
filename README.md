@@ -5,7 +5,7 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
+| What is an agile delivery manager?  | https://emilywebber.co.uk/what-is-an-agile-delivery-manager/ | Emily Webber | Start Here | Role |
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
 | A  | B | C  | D | E |
