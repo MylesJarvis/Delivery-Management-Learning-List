@@ -3,6 +3,16 @@ Things you should research and learn to be a successful Delivery Manager. This i
 
 Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjNOIPqHlCd01yIFHogrRrOo/edit#gid=1069707934
 
+
+## Table of Contents
+- [Intro](#intro)
+- [GOV.UK](#gov.uk)
+- [Books](#books)
+- [Training Courses and Industry Bodies](#Training Courses/Industry Bodies)
+- [Other ](#other-)
+- [Team and company](#team-and-company)
+- [Work-life](#work-life)
+
 ## Intro
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
@@ -30,7 +40,6 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | A  | B | C  | D | E |
 
 ## Books
-
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
