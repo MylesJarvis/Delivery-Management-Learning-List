@@ -104,14 +104,8 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|Focussed Objective: Spreadsheets by Troy Magennis|https://www.focusedobjective.com/w/support, https://github.com/FocusedObjective/FocusedObjective.Resources| Troy Magennis|A suite of downloadable spreadsheets that you can use to calculate metrics associated with your team. This can help with forecasting and provide tools for discussions with your team.|Download|
+|Actionable Agile| https://actionableagile.com | Daniel Vacanti|Online software to allow accurate metric tracking for your Scrum project| including excellent charting features|Use|
 
 ## Facilitation			
 
