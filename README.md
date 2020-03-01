@@ -27,13 +27,14 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | What is an agile delivery manager?  | https://emilywebber.co.uk/what-is-an-agile-delivery-manager/ | Emily Webber | Start Here | Role |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|How to become a Delivery Manager|https://blogs.hackney.gov.uk/hackit/how-to-become-a-delivery-manager |Ian James, Hackney Council|An incredibly comprehensive post on Ian's process to becoming a Delivery Manager|Role|
+|The Agile Manifesto and Twelve Principles of Agile Software|https://agilemanifesto.org/ |N/A|The original manifesto for agile software dvelopment|Techniques|
+|Agile manifesto for public services|http://scottcolfer.com/2017/06/03/agile-manifesto-public-services.html |Scott Colfer|The agile manifesto and how it applies to public services|Techniques|
+|‘We essentially create boring magic.’|https://medium.com/@stevenjmesser/boring-magic-c74a112fa051 |Steve Messer|A piece thinking about what digital government services might be like in the near future.|
+|Advice for a new Delivery Manager from DeliverCon 18|https://www.linkedin.com/pulse/advice-new-delivery-manager-beverley-byford/?published=t |Beverley Byford|A blog post following DeliverCon18, a conference for digital delivery professionals from all areas within government to share ideas, learning and experience in delivering services that meet user needs.|Role|
+|Introduction to Scrum|https://www.mountaingoatsoftware.com/presentations/an-introduction-to-scrum |Mike Cohn|Presentation on the fundamentals of Scrum|Role|
+|DXW Digital's Guide to Delivery|https://www.dxw.com/2020/01/our-guides-on-delivery/ |DXW Digital|A collection of guides to running a project in an agile way, by DXW Digital, a digital services consultancy|Role|
+
 
 ## GOV.UK
 
@@ -169,12 +170,12 @@ Introduction to Disciplined Agile Delivery|http://www.disciplinedagiledelivery.c
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+
 
 ## Podcasts	
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|Agile for Humans|https://ryanripley.com/agile-for-humans/ |Ryan Ripley|Weekly podcast dedicated to the individuals and interactions that make agile work.|Techniques|
+|Scrum Master Toolbox|https://scrum-master-toolbox.org/#content |-|A daily podcast for Scrum Masters and Agile Coaches|Techniques|
+
