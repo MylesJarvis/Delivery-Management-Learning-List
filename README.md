@@ -81,40 +81,31 @@ Fun Retrospectives| Fifty Quick Ideas To Improve Your Retrospectives| The Retros
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|GDS Academy: Working level for Delivery Managers|https://www.gov.uk/guidance/working-level-for-delivery-managers-course-description |GDS Academy|Three-day GDS Academy course on the role of a delivery manager within a digital team.|Course|
+|GDS Academy: Digital and Agile Foundation|https://www.gov.uk/guidance/digital-and-agile-foundation-course-description |GDS Academy|Ten-day GDS Academy course covering the fundamentals of digital and agile| for staff working in a multi-disciplinary team.|Course|
+Adventures with Agile: unlock the behavioural change needed for enterprise-wide agility|https://www.adventureswithagile.com/courses/ |Adventures with Agile|A set of courses: they design and run transformational training and coaching for companies and people in every sector| including in-house coaching and training programs to enable agile mindset and mastery.|Course|
+|Scrum Master Pathway (Scrum.org)|https://www.scrum.org/pathway/scrum-master |Scrum.org||Course|
+|Scrum.org Professional Scrum Master|https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments |Scrum.org||Course|
+|Scrum.org Professional Scrum with Kanban|https://www.scrum.org/professional-scrum-with-kanban-certification| Scrum.org||Course|
+|ScrumAlliance - CSM|https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster| ScrumAlliance||Course|
 
 ## Non-GOV			
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+| Apolitical|https://apolitical.co/home |Apolitical|"Apolitical equips public servants to do their jobs - through free access to courses| articles, events, connections."|Web Community|
+|DigiLeaders|https://digileaders.com/topic/government/ |DigiLeaders|"A global initiative that has created a shared professional space for senior leadership from different sectors promoting effective| long-term digital transformation."|Web Community|
+
 
 ## Games			
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+| Agile Coin Game|http://agilegameswithjames.com/penny-game/ ||A game/ice breaker to use with teams to teach them the importance of limiting work in progress|Game|
+|GetKanban|https://getkanban.com/pages/free-version ||A useful tool for teaching teams the value of Kanban and how limiting Work In Progress can improve delivery value flow.|Game|
+|FeatureBan|https://www.agendashift.com/resources/featureban ||Similarly to GetKanban, another game to teach the merits of Kanban and limiting Work in Progress (WIP)|Game|
+|ChangeBan|https://www.agendashift.com/resources/changeban ||As above - a Lean Startup-flavoured Kanban simulation game|Game|
+
 
 ## Metrics			
 
