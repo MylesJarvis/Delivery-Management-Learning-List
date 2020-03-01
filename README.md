@@ -117,71 +117,53 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 |Play14|https://play14.org/games/ |Various|A website with a number of different games that can be used by faciliatators|Techniques|
 |Gamestorming|https://gamestorming.com/ |David Mastronardi|"A set of techniques for workshops, retros etc. A toolkit for innovators, rule-breakers and changemakers"|Blog|
 |Fun Retrospectives|http://www.funretrospectives.com/ |Taina Caetano and Paulo Caroli|Activities and ideas for making agile retrospectives more engaging (eBook also available)|Short Read|
+|Fun Retrospectives: Ebook|https://leanpub.com/funretrospectives/c/caroli-org |Taina Caetano and Paulo Caroli||Long Read|
+|FunRetro|https://funretro.io/ |FunRetro|Website for running retrospectives in a trello board style fashion|Software|
+|Once upon a time in Legoland|https://www.tastycupcakes.org/2012/10/once-upon-a-time-in-legoland/ |Geoff Watts|Lego based facilitation that teaches some of the core aspects of Agile methodologies|Techniques|
 
 ## Agile at Scale			
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|In Praise of Swarming|https://dannorth.net/2018/01/26/in-praise-of-swarming/ |Dan North|A post examining the various Agile at Scale frameworks and how there is no "silver bullet"|Short Read|
+| Large Scale Scrum: More with LeSS|https://less.works/ |Craig Larman & Bass Vode|"LeSS is about applying the principles, elements, and purpose of Scrum in a large-scale context. Multiple-team Scrum, not multiple Scrum teams."|Techniques|
+Scaled Agile Framework (SAFe) Distilled|http://www.scaledagileframework.com/ |Richard Knaster and Dean Leffingwell|"SAFe for Lean Enterprises is a knowledge base of proven, integrated principles, practices, and competencies for achieving business agility using Lean, Agile, and DevOps. The latest version, SAFe 5.0, is built around the Seven Core Competencies of the Lean Enterprise that are critical to achieving and sustaining a competitive advantage in an increasingly digital age"|Techniques|
+Introduction to Disciplined Agile Delivery|http://www.disciplinedagiledelivery.com/ |Mark Lines & Scott Ambler|"Disciplined Agile Delivery (DAD) is a people-first, learning-oriented hybrid agile approach to IT solution delivery. It has a risk-value delivery lifecycle, is goal-driven, is enterprise aware, and is scalable. DAD is the foundational layer of the DA toolkit. It promotes a goal-based, rather than a prescriptive strategy, that enables teams to choose their way of working (WoW)."|Techniques|
 
 ## Meetups			
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|Agile in the Ether|https://agileintheether.co.uk/ |Emily Webber|"A remote agile meet-up bringing together people from any location to discuss all things agile, lean, people, teams and delivery."|Attend|
 
 ## Slack		
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|#deliverymgmt x-gov Slack|https://ukgovernmentdigital.slack.com/messages/C06HVTMDH || "Cross-government Slack channel about delivery management |Attend|
+|Hands on Agile|https://age-of-product.com/hands-on-agile-on-slack/ |||Attend|
+|Serious Scrum|https://www.seriousscrum.com/ |||Attend|
 
 ## Blogs		
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+| Mountain Goat Software|https://www.mountaingoatsoftware.com/blog |Mike Cohn|Agile techniques, roles and responsibilities|Techniques|
+|Roman Pichler: Blog|https://www.romanpichler.com/blog/ |Roman Pichler|Blog on a variety of Agile techniques and issues|Techniques|
+|Scrum & Kanban|https://scrumandkanban.co.uk/ |-|Blog on using Scrum and Kanban in the real world|Techniques|
+|Scrum Expert|https://www.scrumexpert.com/ |-|Web site dedicated to present articles, blog posts, book reviews, tools, videos, news and other resources about Agile software development and project management with the Scrum approach.|Techniques|
+|Finding Marbles|https://finding-marbles.com/ |Corinna Baldauf|Blog by Author of Fun Retrospectives|Techniques|
 
 ## Posts		
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+| You will not become agile by implementing scrum|https://medium.com/@agile_cio/why-implementing-scrum-has-nothing-to-do-with-agile-c06a32fc3e45 | Jurriaan Kamer|"Agile principles, semantics and the culture"|Techniques|
+|"Institute For Government: The hidden obstacles to government digital transformation"|https://www.instituteforgovernment.org.uk/sites/default/files/publications/Digital_Transformation_final_WEB.pdf |Institute For Government|"The report examines current business case practice in government transformation teams. It suggests improvements in planning, implementation and leadership to result in better outcomes for digital transformation projects."|Business Cases|
+|Scrum & XP from the trenches|http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2 |Henrik Kniberg|Providing a detailed down-to-earth account of how Spotify implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year’s time|Techniques|
+|User Stories: An agile introduction|http://www.agilemodeling.com/artifacts/userStory.htm |Agile Modeling|The basics of writing stories based on user needs|Techniques|
+|The New Reality|https://thenewreality.info/ |Julie Dodd|The New Reality is a research study about how digital technology will deliver the next step-change in social impact based on interviews with over 50 senior leaders and digital experts from both inside and outside the non-profit sector.|Research|
+|The Decision Matrix: How to Prioritize What Matters|https://fs.blog/2018/09/decision-matrix/ |Farnham Street Blog|How to prioritise and delegate different decisions|Techniques|
 
 ## Mailing Lists		
 
