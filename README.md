@@ -111,14 +111,12 @@ Google Docs Link: https://docs.google.com/spreadsheets/d/1c1IQ7R_F4xhBm8teg0lbjN
 
 | Item | Where to find | Author | Description | Type of Document/Focus |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
-| A  | B | C  | D | E |
+|Session Lab: International Association of Facilitators Methods Database| https://www.sessionlab.com/library/iafmethods |IAF|A website detailing close to 500 exercises that can be used by facilitators to run engaging sessions|Techniques|
+|Liberating Structures|http://www.liberatingstructures.com/ls-menu/ | Keith McCandless & Henri Lipmanowicz|A key resource for any Delivery Manager looking to run engaging workshops|Techniques|
+|RetroMat|https://retromat.org/en/ |Corinna Baldauf|Website for novel retrospective ideas|Techniques|
+|Play14|https://play14.org/games/ |Various|A website with a number of different games that can be used by faciliatators|Techniques|
+|Gamestorming|https://gamestorming.com/ |David Mastronardi|"A set of techniques for workshops, retros etc. A toolkit for innovators, rule-breakers and changemakers"|Blog|
+|Fun Retrospectives|http://www.funretrospectives.com/ |Taina Caetano and Paulo Caroli|Activities and ideas for making agile retrospectives more engaging (eBook also available)|Short Read|
 
 ## Agile at Scale			
 
